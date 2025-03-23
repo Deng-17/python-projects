@@ -1,1 +1,3 @@
 Signed commit test
+Trial staging, unstaging and committing.
+And then some more staging and tracking.
